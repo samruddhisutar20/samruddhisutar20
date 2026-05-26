@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/samruddhisutar20/samruddhisutar20/blob/main/samruddhi_sutar.png" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Samruddhi Sutar</h1>
+<h3 align="center">Computer Engineering Student</h3>
+
+---
+
 # 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samruddhi.sutar55@gmail.com)
