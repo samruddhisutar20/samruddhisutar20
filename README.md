@@ -35,6 +35,5 @@
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GOOGLECLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
